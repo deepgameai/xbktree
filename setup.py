@@ -30,7 +30,7 @@ setup(
   description='enhanced bktree',
   long_description=LONG_DESCRIPTION,
   long_description_content_type='text/markdown',
-  url='https://github.com/deepgameai/aitool.git',
+  url='https://github.com/deepgameai/xbktree.git',
   packages=find_packages(),
   classifiers=[
       'Programming Language :: Python :: 3',
